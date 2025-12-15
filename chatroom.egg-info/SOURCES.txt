@@ -1,0 +1,10 @@
+dev-requirements.txt
+pyproject.toml
+chatroom/__init__.py
+chatroom/__main__.py
+chatroom.egg-info/PKG-INFO
+chatroom.egg-info/SOURCES.txt
+chatroom.egg-info/dependency_links.txt
+chatroom.egg-info/requires.txt
+chatroom.egg-info/top_level.txt
+tests/test_chatroom.py
