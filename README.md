@@ -82,4 +82,4 @@ MIT License - feel free to use this project for learning purposes.
 
 ## Author
 
-Will Lehdarrmann
+Will Lehmann
