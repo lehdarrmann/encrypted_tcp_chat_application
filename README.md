@@ -38,17 +38,23 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Start the server:
+1. Navigate to the chatroom directory:
 ```bash
-python -m chatroom.server
+cd chatroom
 ```
 
-2. In separate terminals, start client(s):
+2. Start the server:
 ```bash
-python -m chatroom.client
+python server.py
 ```
 
-3. Enter a nickname when prompted and start chatting!
+3. In separate terminals, navigate to the chatroom directory and start client(s):
+```bash
+cd chatroom
+python client.py
+```
+
+4. Enter a nickname when prompted and start chatting!
 
 ## How It Works
 
